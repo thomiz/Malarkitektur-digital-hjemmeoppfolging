@@ -1,3 +1,5 @@
+# Flyttet til [Direktoratet for e-helse](https://github.com/Direktoratet-for-e-helse/Malarkitektur-digital-hjemmeoppfolging)
+
 # Testdokumentasjon Målarkitektur-digital-hjemmeoppfølging
 
 Testprosjekt for å se hvordan arkitekturdokumentasjon enklest mulig kan publiseres og vedlikeholdes på Github.
