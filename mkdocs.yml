@@ -1,0 +1,6 @@
+site_name: Målarkitektur
+site_url: https://thomiz.github.io
+nav:
+    - Home: Arkitekturprinsipper.md
+    - About: Overordnet-maalbilde.md
+theme: readthedocs
