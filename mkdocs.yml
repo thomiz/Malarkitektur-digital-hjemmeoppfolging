@@ -1,7 +1,6 @@
 site_name: Målarkitektur
-site_url: https://thomiz.github.io
 nav:
-    - Innledning: index.md
+    #- Innledning: index.md
     - Arkitekturprinsipper: Arkitekturprinsipper.md
     - Målbilde: Overordnet-maalbilde.md
-theme: readthedocs
+theme: 'readthedocs'
