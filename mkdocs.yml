@@ -1,6 +1,6 @@
 site_name: Målarkitektur
 nav:
-    #- Innledning: index.md
+    - Innledning: ../index.md
     - Arkitekturprinsipper: Arkitekturprinsipper.md
-    - Malbilde: Overordnet-maalbilde.md
+    - Målbilde: Overordnet-maalbilde.md
 theme: 'readthedocs'
