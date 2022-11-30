@@ -27,3 +27,4 @@ nav_order: 1
 * Se på hvordan mkdoc themes kan enkelt tilpasses https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
 * Missing nav bar footer?
 * Hvordan kjører vi versjoner
+* [Material](https://squidfunk.github.io/mkdocs-material/reference/)
