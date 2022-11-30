@@ -7,7 +7,7 @@ jobs:
   build-deploy:
     name: Build and deploy
 
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
 
     steps:
       - name: Checkout 🛎️
@@ -16,7 +16,7 @@ jobs:
       - name: Set up Ruby 💎
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "2"
+          ruby-version: "3"
           bundler-cache: true
 
       - name: Build 🏗
