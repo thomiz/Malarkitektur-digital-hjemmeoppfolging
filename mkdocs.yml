@@ -6,7 +6,7 @@ nav:
 #theme: 'readthedocs'
 theme:
   name: material
-  custom_dir: material/.overrides
+  #custom_dir: material/.overrides
   features:
     # - announce.dismiss
     - content.code.annotate
