@@ -1,10 +1,12 @@
-remote_theme: thomiz/just-the-docs
+#remote_theme: thomiz/just-the-docs
 logo: images/logo.png
 title: Digital hjemmeoppfølging målarkitektur Datadeling
 exclude: README.md
 
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p"
+
+theme: just-the-docs
 
 plugins:
   - jekyll-seo-tag
