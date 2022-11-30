@@ -26,5 +26,5 @@ nav_order: 1
 * Kjøre med peaceiris script og gh-pages build action
 * Se på hvordan mkdoc themes kan enkelt tilpasses https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
 * Missing nav bar footer?
-* Hvordan kjører vi versjoner
+* Hvordan kjører vi versjoner ([mike](https://github.com/jimporter/mike))
 * [Material](https://squidfunk.github.io/mkdocs-material/reference/)
