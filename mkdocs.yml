@@ -3,4 +3,4 @@ nav:
     - Innledning: index.md
     - Arkitekturprinsipper: Arkitekturprinsipper.md
     - Målbilde: Overordnet-maalbilde.md
-theme: 'material'
+#theme: 'readthedocs'
