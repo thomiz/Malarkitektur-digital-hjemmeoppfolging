@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 3.8.5'
-gem 'coderay', '~> 1.1.0'
-gem "just-the-docs"
+gem "jekyll", "~> 4.2"
+gem "webrick", "~> 1.7"
+gem "just-the-docs", "~> 0.3"
