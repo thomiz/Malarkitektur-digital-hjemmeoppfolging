@@ -4,3 +4,5 @@ nav:
     - Arkitekturprinsipper: Arkitekturprinsipper.md
     - Målbilde: Overordnet-maalbilde.md
 theme: 'readthedocs'
+plugins:
+  - jekyll-seo-tag
