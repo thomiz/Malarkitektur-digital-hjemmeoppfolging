@@ -30,14 +30,12 @@ theme:
     - scheme: default
       primary: black
       accent: red
-      logo: assets/ehelse-hvit.svg
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
       primary: grey
       accent: red
-      logo: assets/ehelse-hvit.svg
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
