@@ -5,6 +5,7 @@ nav:
     - Målbilde: Overordnet-maalbilde.md
 theme:
   name: material
+  logo: logo/ehelse-hvit.svg
   #custom_dir: material/.overrides
   features:
     # - announce.dismiss
@@ -43,5 +44,3 @@ theme:
     text: Roboto
     code: Roboto Mono
   #favicon: assets/favicon.png
-  icon:
-    logo: logo/ehelse-hvit
