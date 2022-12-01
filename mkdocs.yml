@@ -3,7 +3,6 @@ nav:
     - Innledning: index.md
     - Arkitekturprinsipper: Arkitekturprinsipper.md
     - Målbilde: Overordnet-maalbilde.md
-#theme: 'readthedocs'
 theme:
   name: material
   #custom_dir: material/.overrides
@@ -31,12 +30,14 @@ theme:
     - scheme: default
       primary: black
       accent: red
+      logo: assets/ehelse-hvit.svg
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
       primary: grey
       accent: red
+      logo: assets/ehelse-hvit.svg
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -44,5 +45,5 @@ theme:
     text: Roboto
     code: Roboto Mono
   #favicon: assets/favicon.png
-  #icon:
-  #  logo: logo
+  icon:
+    logo: assets/ehelse-hvit.svg
