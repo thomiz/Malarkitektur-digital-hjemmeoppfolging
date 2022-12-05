@@ -36,12 +36,10 @@ jobs:
           destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
-
-  # Deployment job
-  - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3
-      #if: ${{ github.ref == 'refs/heads/main' }}
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./_site
-        destination_dir: ./currentbuild
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        #if: ${{ github.ref == 'refs/heads/main' }}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          destination_dir: ./currentbuild
