@@ -40,3 +40,9 @@ nav_order: 1
 
 * Prøvde dette scriptet for å bruke just the docs temaet med push til gh-branchen, men det feilet når Jekyll skulle startes
   * [Jekyll med just-the-docs](https://github.com/MichaelCurrin/jekyll-actions-quickstart)
+
+### Oppdatere Just-the-docs versjon samtidig som mkdocs
+
+* Just-the-docs kan bare eksistere i hovedkatalogen på gh-pages branchen på github.io, ellers brytes alle koblinger til bilder og andre sider (kanskje det eksisterer en innstilling?)
+* Mkdocs versjonen kan godt ligge under katalog (for eksempel "currentbuild") uten at lenker brytes
+* Scriptet fungerer for produksjon av just-the-docs og deploy til gh-pages branch (root) *Deploy Jekyll with JTD to gh-pages(root)*

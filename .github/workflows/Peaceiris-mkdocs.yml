@@ -1,4 +1,4 @@
-name: peaceiris-mkdocks
+name: peaceiris-mkdocks gh-pages/currentbuild
 
 on:
   workflow_dispatch:
