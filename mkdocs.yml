@@ -1,6 +1,7 @@
 site_name: Målarkitektur
+site_url: https://thomiz.github.io/Malarkitektur-digital-hjemmeoppfolging/currentbuild/
 nav:
-    - Innledning: index.md
+    - Innledning: ../index.md
     - Arkitekturprinsipper: Arkitekturprinsipper.md
     - Målbilde: Overordnet-maalbilde.md
 theme:
