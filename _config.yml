@@ -1,7 +1,7 @@
 remote_theme: thomiz/just-the-docs
 logo: images/logo.png
 title: Digital hjemmeoppfølging målarkitektur Datadeling
-baseurl: "/JTD-currentbuild/docs" # the subpath of your site, e.g. /blog
+baseurl: "/Malarkitektur-digital-hjemmeoppfolging/JTD-currentbuild" # the subpath of your site, e.g. /blog
 url: "https://thomiz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 exclude: README.md
 
