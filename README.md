@@ -49,7 +49,7 @@ nav_order: 1
 * Scriptet fungerer for produksjon av just-the-docs og deploy til gh-pages branch (root) *Deploy Jekyll with JTD to gh-pages(root)*
   * Scriptet sletter gh-pages branchen i sin helhet før ny deploy
   * Det er peaciris action som sletter også currentbranch katalogen
-    * Løsning, enten bruke opsjon for å beholde filer eller legge byggene i underkataloger, peaciris sletter bare gjeldende deploykatalog i destination_dir (men hvis dette er roten *.* slettes hele gh-pages branchen)
+    * Løsning, enten bruke opsjon for å beholde filer eller legge byggene i underkataloger, peaciris sletter bare gjeldende deploykatalog i destination_dir (men hvis dette er rotkatalogen (".") slettes hele gh-pages branchen)
 
 ### Konfigurere Just-the-docs for eksistens i underkatalog (e.g. currentbuild)
 
