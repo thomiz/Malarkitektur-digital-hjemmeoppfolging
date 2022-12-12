@@ -24,7 +24,7 @@ Pasienten kan i prinsippet oppholde seg hvor som helst fysisk, men likevel kunne
 ## Målarkitektur for samhandling innen digital hjemmeoppfølging inneholder
 * Dokumenterer felles arkitekturvalg og samhandlingsmønster som benyttes i DHO
 * Behov for informasjon og samhandling for å understøtte tjenesten
-  - Inkludert bruk av eksisterende eller planlagte informasjonstjenester
+    * Inkludert bruk av eksisterende eller planlagte informasjonstjenester
 * Dokumentere aktører som skal samhandle og samhandlingsmønstre som fungerer mellom disse
   - Oppsummere erfaringer
 * Informasjonstjenester og infrastrukturtjenester som kan ivareta behovene
