@@ -14,8 +14,7 @@ QA version
 Kapittelet beskriver de overordnede strategiske målene for DHO arbeidet definert for Tiltak 5 som identifiserer "Definere en overordnet arkitektur for datadeling" som en hovedleveranse.
 
 !!! note
-
-    Målbildet på strategisk nivå for DHO er beskrevet i [Veien videre for Nasjonalt velferdsteknologiprogram og Digi-hjem 2022-2024](https://sh.ehelse.no/dihj/_layouts/15/WopiFrame.aspx?sourcedoc={ef7e38d0-ed5d-4983-9c3c-a73ed4a21b23}). Modellen viser sammenhengene mellom overordnede samfunnsmål definert for området. Det er også identifisert eksisterende barrierer for utbredelsen av velferdsteknologi og effektiv utnyttelse av DHO i helse og omsorgssektoren. 
+    Målbildet på strategisk nivå for DHO er beskrevet i [Veien videre for Nasjonalt velferdsteknologiprogram og Digi-hjem 2022-2024](https://sh.ehelse.no/dihj/_layouts/15/WopiFrame.aspx?sourcedoc={ef7e38d0-ed5d-4983-9c3c-a73ed4a21b23}). Modellen viser sammenhengene mellom overordnede samfunnsmål definert for området. Det er også identifisert eksisterende barrierer for utbredelsen av velferdsteknologi og effektiv utnyttelse av DHO i helse og omsorgssektoren.  
 
 ![image](https://user-images.githubusercontent.com/6229665/198982995-9deae3a8-bb01-4acc-abff-12751f471475.png)
 
