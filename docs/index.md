@@ -22,19 +22,21 @@ Det er vesentlig at oppfølgingen ikke begrenses til der pasienten bor, men at d
 Pasienten kan i prinsippet oppholde seg hvor som helst fysisk, men likevel kunne nå et avstandsbasert helsetilbud når det er forsvarlig.
 
 ## Målarkitektur for samhandling innen digital hjemmeoppfølging inneholder
+
 * Dokumenterer felles arkitekturvalg og samhandlingsmønster som benyttes i DHO
 * Behov for informasjon og samhandling for å understøtte tjenesten
 	* Inkludert bruk av eksisterende eller planlagte informasjonstjenester
 * Dokumentere aktører som skal samhandle og samhandlingsmønstre som fungerer mellom disse
 	* Oppsummere erfaringer
 * Informasjonstjenester og infrastrukturtjenester som kan ivareta behovene
-  - Infrastrukturtjenester (NHN) og tjenester som virksomhetene selv må implementere
+  * Infrastrukturtjenester (NHN) og tjenester som virksomhetene selv må implementere
     * Peke på nødvendige fellestjenester, infrastruktur og integrasjonspunkter inn i egen organisasjon
-  - Gap mellom AS-IS og TO-BE, tiltak som utfyller gapet
+  * Gap mellom AS-IS og TO-BE, tiltak som utfyller gapet
 * Behov for andre normerende produkter (Semantisk nivå, tillitstjenester, hvordan etablere infrastrukturtjenester i virksomheten)
 * Overordnede juridiske avklaringer
 
 ## Formålet med målarkitekturen
+
 * Skal fungere som kommunikasjonsverktøy mot helse- og omsorgstjenesten, leverandører og NHN
   * Benyttes i drøfting og forankring av felles retning for utvikling av DHO
   * Enighet om felles mål, definere mulighetsrom for aktørene
@@ -43,7 +45,7 @@ Pasienten kan i prinsippet oppholde seg hvor som helst fysisk, men likevel kunne
 * Gi oversikt over behovsbildet
   * knyttet til behov for utveksling på tvers av virksomheter
 * Beskrive juridiske problemstillinger knyttet til DHO på et overordnet nivå
- 
+
 ## Kontekst for målarkitekturen
 En målarkitektur er en fremtidig, ønsket tilstand. Det er naturlig å ha en stegvis, behovsprøvd tilnærming til realisering av målarkitekturen.
 
