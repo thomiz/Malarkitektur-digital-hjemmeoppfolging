@@ -44,4 +44,12 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/git-alt
+  favicon: logo/ehelse-hvit.png
+  markdown_extensions:
+    - mdx_truly_sane_lists
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
   #favicon: assets/favicon.png
