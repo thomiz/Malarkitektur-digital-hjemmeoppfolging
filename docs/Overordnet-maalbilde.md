@@ -1,12 +1,3 @@
----
-layout: default
-title: Overordnet målbilde DHO
-nav_order: 3
----
-
-QA version
-{: .label .label-yellow }
-
 | Status | Version | Maturity | Normative level |
 |:-------------|:------------------|:------|:-------|
 | QA version | v0.5 | review  | veileder |
