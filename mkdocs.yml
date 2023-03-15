@@ -53,5 +53,8 @@ markdown_extensions:
   - pymdownx.superfences
   - mdx_truly_sane_lists
   #favicon: assets/favicon.png
+plugins:
+  - search
+  - pdf-export
   
     
