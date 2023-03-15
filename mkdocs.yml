@@ -55,4 +55,4 @@ markdown_extensions:
   #favicon: assets/favicon.png
 plugins:
   - search
-  - mkpdfs-mkdocs
+  - mkpdfs
