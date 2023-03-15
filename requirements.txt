@@ -3,4 +3,4 @@ mkdocs-bootswatch
 mkdocs-minify-plugin
 mkdocs-material
 mdx-truly-sane-lists
-mkdocs-pdf-export-plugin
+mkpdfs
