@@ -3,5 +3,4 @@ mkdocs-bootswatch
 mkdocs-minify-plugin
 mkdocs-material
 mdx-truly-sane-lists
-weasyprint==52.5
-mkpdfs-mkdocs
+mkdocs-with-pdf
